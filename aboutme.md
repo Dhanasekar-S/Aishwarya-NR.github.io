@@ -3,9 +3,10 @@ layout: page
 title: About me
 ---
 
-<bold>Skills<\bold>
+Skills
 
-- I rock a great mustache
+- Software
+  -Java, web2py, php, SQL, C++, HTML-5, Python, C
 - I'm extremely loyal to my family
 
 Interests
