@@ -6,7 +6,12 @@ title: About me
 Skills
 
 - Software
-  -Java, web2py, php, SQL, C++, HTML-5, Python, C
+  -Java, 
+  -Python
+  -HTML-5,CSS
+  -Latex
+  -C++
+  -Matlab
 - I'm extremely loyal to my family
 
 Interests
