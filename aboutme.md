@@ -5,7 +5,7 @@ title: About me
 
 Skills
 
-- Software
+Software
   -Java, 
   -Python
   -HTML-5,CSS
