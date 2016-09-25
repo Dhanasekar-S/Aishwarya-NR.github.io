@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Skills
+<bold>Skills<\bold>
 
 - I rock a great mustache
 - I'm extremely loyal to my family
