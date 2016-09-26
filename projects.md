@@ -25,7 +25,7 @@ In this project, me along with my team attempt to develop a Shallow parser for C
 To understand how someone’s personality and intrinsic values change with geolocation and city we intend to perform several experiments, the final outcome of which will be a map to represent geo-specific values.In order to create the World map, we intend to collect data from 40 most popular cities around the world. We will also be collecting the network structure of atleast 2000 users from each city and determine the Values and Personality and checking community Variations all over the world. This values/ethics map would provide an overview of the kind of values & Personalities possessed by people from different regions and community structure.
 <br>
 <br>
-<h3>Web Portal for University Hostel| (2015)</h3>
+<h3>Web Portal for University Hostel | (2015)</h3>
 Developed a Hostel portal for the University to facilitate hostelers using web2py framework and SQLite database. User Interface was developed using Java-Script, HTML and bootstrap.
 <br>
 <br>
@@ -34,7 +34,7 @@ Devised a Home Automation System which validates user on the basis of face recog
 nition
 <br>
 <br>
-<h3>Quad Control Robotic Arm for Assistance of Physically Challenged(Android-Based) | (2015)<h3>
+<h3>Quad Control Robotic Arm for Assistance of Physically Challenged(Android-Based) | (2015)</h3>
 Developed a prototype Robotic Arm for assisting aged and Physically Challenged people. The Arm uses Wi-Fi and Bluetooth as communication networks and works on four control mechanisms i.e., Remote, Smart Phone Tilt, Voice and Hand gesture recognition. User Interface is provided by self developed Android Application
 <br>
 <br>
