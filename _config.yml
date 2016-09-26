@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://aishwarya-nr.github.io"
-baseurl: "/projectname"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,7 +23,7 @@ description: Junior Undergrad|NLP Researcher.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://aishwarya-nr.github.io/aboutme"
+  About Me: "aboutme"
   
   Projects: "https://aishwarya-nr.github.io/projects/"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
