@@ -23,6 +23,8 @@ title: Experiences
 
 - Participated in the summer Entrepreneurship bootcamp conducted by Indian Institute of Information Technology as a Entrepreneur's club representative
 - Developed an Online interactive recepie portal
+
+
 <h3> IBM I-CARE Poster Presentation | 2016</h3>
 
 - "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content" Poster selected for presentation at  <a href="http://icare2016.mybluemix.net/poster.html"> IBM I-CARE, 2016 </a> at MSRIT Bangalore
