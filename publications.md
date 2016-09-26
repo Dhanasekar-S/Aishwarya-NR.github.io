@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
- Modeling Satire in English Text for Automatic Detection - *Conference proceedings at ICDM-Sentire, 2016, Barcelona*
+ Modeling Satire in English Text for Automatic Detection - *Conference proceedings at ICDM-Sentire 2016, Barcelona, Spain*
  
  Quad-Control Wireless Robotic Arm- *Conference proceedings at IEEE ICPEICES 2016,DTU India*
  
