@@ -5,7 +5,9 @@ title: About me
 <h2>Education</h2>
 
 
-- <h3> B.Tech in Electronics and Communication Engineering</h3>
+- B.Tech in Electronics and Communication Engineering, Cgpa-9.64/10(Batch Topper)
+- Karnataka P.U.C, 95% 
+- CBSE 10th, Cgpa-10/10
 
   
 
