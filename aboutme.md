@@ -33,4 +33,4 @@ title: About me
 - Writing ( View my <a href="https://www.quora.com/profile/Aishwarya-N-Reganti">Quora</a> Profile)
 
 
-Download my resume here
+Download my resume <a href="https://aishwarya-nr.github.io/Aishwarya_Resume.pdf/">here</a> 
