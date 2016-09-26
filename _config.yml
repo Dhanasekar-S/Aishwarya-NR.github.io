@@ -23,7 +23,7 @@ description: Junior Undergrad|NLP Researcher.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://aishwarya-nr.github.io/aboutme"
   
   Projects: "https://aishwarya-nr.github.io/projects/"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
