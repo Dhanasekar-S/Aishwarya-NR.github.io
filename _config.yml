@@ -30,7 +30,7 @@ navbar-links:
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
   Publications: "https://aishwarya-nr.github.io/publications/"
-  Experiences: "http://deanattali.com"
+  Experiences: "https://aishwarya-nr.github.io/Experiences/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
