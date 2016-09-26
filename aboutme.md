@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-Software Skills
+<h1>Software Skills</h1>
 
 - Python
 - Java
