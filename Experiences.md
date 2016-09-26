@@ -6,7 +6,7 @@ title: Experiences
 <h3>Research Assistant: Nanyang Technological University, Singapore |  Summer-2016</h3>
 
 
-- Worked as Research Assistant in NTU-Singapore for SenticNet under the guidance of Prof.Erik Cambria.
+- Worked as Research Assistant in NTU-Singapore for SenticNet under the guidance of Prof.<a href="http://sentic.net/erikcambria/">Erik Cambria</a>.
 
 - Developed a model for automatic satire detection in English text.
 
@@ -25,4 +25,4 @@ title: Experiences
 - Developed an Online interactive recepie portal
 <h3> IBM I-CARE Poster Presentation | 2016</h3>
 
-- "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content" Poster selected for presentation at  <a href="http://icare2016.mybluemix.net/poster.html"> IBM I-CARE,2016 </a> at MSRIT Bangalore
+- "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content" Poster selected for presentation at  <a href="http://icare2016.mybluemix.net/poster.html"> IBM I-CARE, 2016 </a> at MSRIT Bangalore
