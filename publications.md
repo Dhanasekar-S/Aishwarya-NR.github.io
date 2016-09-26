@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
- <a href=http://sentic.net/sentire2016reganti.pdf> Modeling Satire in English Text for Automatic Detection</a> - *Conference proceedings at ICDM-Sentire 2016, Barcelona, Spain*
+ Modeling Satire in English Text for Automatic Detection - *Conference proceedings at ICDM-Sentire 2016, Barcelona, Spain*
  
  Quad-Control Wireless Robotic Arm- *Conference proceedings at IEEE ICPEICES 2016,DTU India*
  
