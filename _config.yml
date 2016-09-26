@@ -29,7 +29,7 @@ navbar-links:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
-  Publications: "https://aishwarya-nr.github.io/projects/"
+  Publications: "https://aishwarya-nr.github.io/publications/"
   Experiences: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
