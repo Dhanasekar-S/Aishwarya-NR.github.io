@@ -2,7 +2,16 @@
 layout: page
 title: About me
 ---
-<h1>Software Skills</h1>
+<h2>Education</h2>
+
+
+- <h3> B.Tech in Electronics and Communication Engineering</h3>
+
+  
+
+
+
+<h2>Software Skills</h2>
 
 - Python
 - Java
@@ -14,7 +23,7 @@ title: About me
 - SQL
 
 
-Interests
+<h2>Interests</h2>
 
 - Singing
 - Debating
