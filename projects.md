@@ -2,8 +2,18 @@
 layout: page
 title: Projects
 ---
-
-
+<h3>Semantic Interpretation of Social Network Communities | (2016-Present)</h3>
+In network science, a community is considered to be a group
+of nodes densely connected internally and sparsely connected
+externally. However, the semantic interpretation of a community
+is hardly studied. In this project, my team attempts to understand
+whether individuals in a community possess similar Personalities,
+Values and Ethical background. Finally, we show that
+Personality and Values models could be used as features to
+discover more accurate community structure compared to the
+one obtained from only network information.
+<br>
+<br>
 <h3>Figurative Language Analysis | (2016-Present)</h3>
 Figurative language is language that uses words or expressions with a meaning that is different from the literal interpretation. Figurative language is used with a  meaning  that  is  different  from  the  basic  meaning  and  thatexpresses an idea in an interesting way by using language thatusually describes something else. Therefore, one of the greatest challenges  in  computational  linguistics  is  figurative  languageprocessing,  since  the  words  or  expressions  used  possess  ameaning that is different from the literal interpretation. In my summer internship at NTU Singapore, I worked on analysis of various elements of figurative language. My team also developed an automatic satire detection system, we published a research paper on the works carried out in ICDM-Sentire-2016
 <br>
