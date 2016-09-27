@@ -25,6 +25,6 @@ title: Experiences
 
 
 - Participated in the summer Entrepreneurship bootcamp conducted by Indian Institute of Information Technology as a Entrepreneur's club representative
-- Developed an Online interactive recipe portal
+- Developed an online interactive recipe portal
 
 
