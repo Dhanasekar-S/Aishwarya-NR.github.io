@@ -33,3 +33,6 @@ title: About me
 - Writing ( View my <a href="https://www.quora.com/profile/Aishwarya-N-Reganti">Quora</a> Profile)
 - Poetry (View my <a href="http://www.poemhunter.com/aishwarya-naresh/">PoetHunter</a>  Account)
 
+
+My <a href='https://aishwarya-nr.github.io/Aishwarya_Resume.pdf'> Resume</a>
+
