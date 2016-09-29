@@ -12,7 +12,6 @@ Values and Ethical background. Finally, we show that
 Personality and Values models could be used as features to
 discover more accurate community structure compared to the
 one obtained from only network information.
-
 <a href='https://aishwarya-nr.github.io/AAAI_Student_paper_Supplemntary%20(1).pdf'> AAAI Student paper</a>
 <br>
 <br>
