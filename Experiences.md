@@ -4,7 +4,7 @@ title: Experiences
 ---
 <h3> IBM I-CARE Poster Presentation | 2016</h3>
 
-- "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content" Poster awarded runner up award at  <a href="http://icare2016.mybluemix.net/poster.html"> IBM I-CARE, 2016 </a> at MSRIT Bangalore
+- "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content" Poster awarded **runner up prize** at  <a href="http://icare2016.mybluemix.net/poster.html"> IBM I-CARE, 2016 </a> at MSRIT Bangalore
 
 <h3>Research Assistant: Nanyang Technological University, Singapore |  Summer-2016</h3>
 
