@@ -4,7 +4,7 @@ title: Experiences
 ---
 <h3> Research Intern: IIIT-Delhi |Winter-2016</h3>
 
-- Working as Research Intern in IIIT-D under the guidance of Professor <a href="http://precog.iiitd.edu.in/people/pk/Home.html"> PK </a>
+- Working as Research Intern in IIIT-D under the guidance of Professor <a href="http://precog.iiitd.edu.in/people/pk/Home.html"> PK (Ponnurangam Kumaraguru) </a>
 - Project : Understanding Sociological Vulnerability of ISIS Partonisers on Twitter 
 
 <h3> IBM I-CARE Poster Presentation | 2016</h3>
