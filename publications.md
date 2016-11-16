@@ -7,7 +7,7 @@ Semantic Interpretation of Social Network Communities. Poster selected for prese
 
 Modeling Satire in English Text for Automatic Detection - *Conference proceedings at **ICDM-Sentire** 2016, Barcelona, Spain*
 
-Cosmopolitan Mumbai, Orthodox Delhi, Techcity Bangalore: The Creation of India’s Geo-Specific Ethical Map from Social Media- Poster selected at **IEEE-ICON 2016** *Conference proceedings at IIT-BHU Varanasi*
+Cosmopolitan Mumbai, Orthodox Delhi, Techcity Bangalore: The Creation of India’s Geo-Specific Ethical Map from Social Media- Poster selected at **ICON 2016** *Conference proceedings at IIT-BHU Varanasi*
  
 Quad-Control Wireless Robotic Arm- *Conference proceedings at **IEEE ICPEICES 2016**,DTU India*
  
