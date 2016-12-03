@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content *Conference proceedings at **EACL 2017**, Valencia, Spain*
+
+
 Semantic Interpretation of Social Network Communities. Poster selected for presentation at **AAAI 2017**, *San Francisco, USA.*
 
 Modeling Satire in English Text for Automatic Detection - *Conference proceedings at **ICDM-Sentire** 2016, Barcelona, Spain*
