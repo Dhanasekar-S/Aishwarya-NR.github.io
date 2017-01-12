@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Socio-Ethnic Ingredients of Social Network Communities. Accepted as poster in the *20th ACM Conference on Computer-Supported Cooperative Work and Social Computing **(CSCW 2017)**, Portland, Oregon, USA.*
+
 A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content *Conference proceedings at **EACL 2017**, Valencia, Spain*
 
 
